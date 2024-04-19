@@ -21,7 +21,7 @@
 .profile-box{
   width: 600px;
   margin-top: 20px;
-  background: #a3c624;
+  background: #72a0c6;
   position: absolute;
   padding: 15px;
   border-radius: 10%;
@@ -66,7 +66,7 @@
   height: 70px;
   width: 200px;
   text-align: center;
-  background: #d66e36;
+  background: #9ecfd6;
   text-decoration: none;
   color: white;
   padding: 5px;
@@ -124,7 +124,7 @@
   left: 10%;
   width: 80%;
   height: 60px;
-  background: #d66e36;
+  background: #9ecfd6;
   transition: 0.5s;
   overflow: hidden;
   color: white;
@@ -167,7 +167,7 @@
   margin-left: 0;
   text-decoration: none;
   color: white;
-  background: #a3c624;
+  background: #72a0c6;
   text-align: center;
 
 }

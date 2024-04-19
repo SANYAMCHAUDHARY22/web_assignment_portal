@@ -55,7 +55,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'classmanager.urls'
+ROOT_URLCONF = 'EduSphere.urls'
 
 TEMPLATES = [
     {
@@ -73,7 +73,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'classmanager.wsgi.application'
+WSGI_APPLICATION = 'EduSphere.wsgi.application'
 
 
 # Database
